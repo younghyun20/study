@@ -1,0 +1,8 @@
+LIST
+
+Issues : 사람들과 소통하는 공간
+Pull request : 내가 수정한 소스를 Fork한 곳에서 끌어가라고 요청하는 곳
+Wiki : 중요한 정보 등을 작성하는 공간
+Action : 작업 시 자동적으로 처리 할 일을 작성 하는 공간
+
+Action
